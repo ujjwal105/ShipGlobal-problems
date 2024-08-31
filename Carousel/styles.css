@@ -82,7 +82,6 @@ body {
     background-color: #717171;
 }
 
-/* Responsive styling */
 @media (max-width: 768px) {
     .carousel-container {
         max-width: 100%;
